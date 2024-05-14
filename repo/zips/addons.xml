@@ -7,6 +7,7 @@
         <import addon="script.kodi.android.update" optional="true" version="1.1.7" />
         <import addon="script.speedtester" optional="true" version="1.1.2" />
     </requires>
+    
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
   </extension>
@@ -15,5 +16,7 @@
     <summary lang="en">[COLOR limegreen][B]JC[/B][/COLOR]Wizard</summary>
     <description lang="en">[COLOR limegreen][B]JC[/B][/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
     <platform>all</platform>
+    <reuselanguageinvoker>false</reuselanguageinvoker>
+        <source>https://www.github.com/jchc4/jcwizard/</source>
   </extension>
 </addon></addons>
