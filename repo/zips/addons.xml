@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <addons><addon id="jcwizard" name="[COLOR limegreen][B]JC[/B][/COLOR]Wizard" version="1.0.0" provider-name="jchc4">
   <requires>
-    <import addon="xbmc.python" version="2.1.0" />
+    <import addon="xbmc.python" version="3.0.0" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
