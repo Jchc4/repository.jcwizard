@@ -1,0 +1,3 @@
+[submodule "plugin.program.jcwizard"]
+	path = plugin.program.jcwizard
+	url = https://github.com/Jchc4/plugin.program.jcwizard
