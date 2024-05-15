@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="repository.jcwizard" name="[COLOR limegreen][B]JC[/B][/COLOR]Wizard Repository" version="1.0" provider-name="Jchc4">
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.jcwizard" name="[COLOR limegreen][B]JC[/B][/COLOR]Wizard Repository" version="1.0" provider-name="Jchc4">
     <extension point="xbmc.addon.repository" name="[COLOR limegreen][B]JC[/B][/COLOR]Wizard Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/jchc4/repository.jcwizard/master/master/zips/addons.xml</info>
@@ -18,4 +18,4 @@
         </assets>
         <source>https://www.github.com/jchc4/repository.jcwizard/</source>
     </extension>
-</addon></addons>
+</addon>
