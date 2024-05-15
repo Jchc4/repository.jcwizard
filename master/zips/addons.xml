@@ -1,14 +1,7 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
 <addon id="plugin.program.jcwizard" name="[COLOR limegreen][B]JC[/B][/COLOR]Wizard" version="1.0.0" provider-name="jchc4">
   <requires>
-=======
-<?xml version='1.0' encoding='utf-8'?>
-<addons>
-<addon id="plugin.program.jcwizard" name="[COLOR limegreen][B]JC[/B][/COLOR]Wizard" version="1.0.0" provider-name="jchc4">
-   <requires>
->>>>>>> 0607866c1ab6e0767e0346c976c9b2821587bd15
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
         <import addon="script.module.six" />
@@ -19,11 +12,8 @@
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>executable</provides>
   </extension>
-  
   <extension point="xbmc.service" library="startup.py" start="startup" />
-  
   <extension point="xbmc.addon.metadata">
-<<<<<<< HEAD
     <summary lang="en">[COLOR limegreen][B]JC[/B][/COLOR]Wizard</summary>
     <description lang="en">[COLOR limegreen][B]JC[/B][/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
     <platform>all</platform>
@@ -31,15 +21,6 @@
         <source>https://github.com/Jchc4/plugin.program.jcwizard</source>
     <news>
     </news>
-=======
-      <summary lang="en">[COLOR limegreen][B]JC[/B][/COLOR]Wizard</summary>
-      <description lang="en">[COLOR limegreen][B]JC[/B][/COLOR]Wizard offers many maintenance features, selective add-on data saving, and automated build installs.</description>
-      <platform>all</platform>
-      <reuselanguageinvoker>false</reuselanguageinvoker>
-      <source>https://github.com/Jchc4/plugin.program.jcwizard</source>
-      <news>
-      </news>
->>>>>>> 0607866c1ab6e0767e0346c976c9b2821587bd15
     <assets>
             <icon>icon.png</icon>
             <fanart>fanart.png</fanart>
