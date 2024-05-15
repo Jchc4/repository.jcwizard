@@ -18,12 +18,5 @@
     <platform>all</platform>
     <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://github.com/Jchc4/plugin.program.jcwizard</source>
-   <news>
-     </news>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.png</fanart>
-        </assets>
-    </extension>
-</addon>
-</addons>
+  </extension>
+</addon></addons>
