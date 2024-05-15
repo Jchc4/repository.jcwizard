@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.program.jcwizard" name="[COLOR limegreen][B]JC[/B][/COLOR]Wizard" version="1.0.0" provider-name="jchc4">
+<addons>
+<addon id="plugin.program.jcwizard" name="[COLOR limegreen][B]JC[/B][/COLOR]Wizard" version="1.0.0" provider-name="jchc4">
   <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
