@@ -15,7 +15,7 @@ description="JC Build"
 
 name="JC Build lite"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/yy4eb001tb5vtde324ugt/JCbuild-lite-v1.zip?rlkey=qrkzjq4aag5n1fg1589s8vpnr&st=il9jihoc&dl=0"
+url="https://www.dropbox.com/scl/fi/yy4eb001tb5vtde324ugt/JCbuild-lite-v1.zip?rlkey=qrkzjq4aag5n1fg1589s8vpnr&st=il9jihoc&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/wkq4ewyj3zio1hu35vd87/JCbuild-lite-v1_guisettings.zip?rlkey=ae96dh0m9wbjsyjbofy7y8sey&st=chj64hgr&dl=1"
 kodi="21.0"
