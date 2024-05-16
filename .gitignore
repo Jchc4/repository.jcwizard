@@ -2,3 +2,5 @@
 repo/jcwizard/
 repo/plugin.program.jcwizard/
 master/plugin.program.jcwizard/
+
+.gitmodules
