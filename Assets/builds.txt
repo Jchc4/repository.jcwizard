@@ -1,9 +1,9 @@
 
 name="JC Build"
-version="1.2"
-url="https://www.dropbox.com/scl/fi/sevfh8uke7zg4t1gx5fgh/JCbuild-v1.2.zip?rlkey=676ul2hmwr4qsca3q6rp3j462&st=3wmu1cjc&dl=1"
+version="2"
+url="https://www.dropbox.com/scl/fi/vp2k7mtxasprfcrhttrl8/JCbuild-v2.zip?rlkey=md90e3u1jt8m589cbrpd3v6ot&st=ov8d0z9r&dl=1"
 minor="http://"
-gui="https://www.dropbox.com/scl/fi/79kxciea1rcq00fi2wfnk/JCbuild-v1.2_guisettings.zip?rlkey=lhulfaok28rphpa9k2mzs2qvb&st=eb9hshr7&dl=1"
+gui="https://www.dropbox.com/scl/fi/5u17zodxqz8yxryg7wtlw/JCbuild-v2_guisettings.zip?rlkey=ecsrvkwywpcfu6tbiz99zo78v&st=s6qb6bpw&dl=1"
 kodi="21.0"
 theme="http://"
 icon="https://raw.githubusercontent.com/Jchc4/repository.jcwizard/master/Assets/JC%20build.png"
