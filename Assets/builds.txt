@@ -1,9 +1,9 @@
 
 name="JC Build"
-version="3"
-url="https://www.dropbox.com/scl/fi/2jxerq4lnwob9z7d978ni/JCBuild-v4.zip?rlkey=bwimdxe6d67v1cylqjla9r92k&st=ao7oe9mm&dl=1"
+version="5"
+url="https://www.dropbox.com/scl/fi/9vrrho2ruhz62cpnxbcvi/JC_Build_v5_FenlightAM.zip?rlkey=5pbctwbw0ysfycvz7624iousw&st=ukp98ey6&dl=1"
 minor="http://"
-gui="https://www.dropbox.com/scl/fi/sgfi928vy31ag1nj2hbbi/JCBuild-2Bv4_guisettings.zip?rlkey=6c9jp09zksj7souicfeynss3q&st=lvonomy3&dl=1"
+gui="https://www.dropbox.com/scl/fi/j0dbjziz5j2iyp59ohv1a/JC_Build_v5_FenlightAM_guisettings.zip?rlkey=p81ec4xmxcpngaudfy4e8r1zz&st=qwa4ne6p&dl=1"
 kodi="21.0"
 theme="http://"
 icon="https://raw.githubusercontent.com/Jchc4/repository.jcwizard/master/Assets/JC%20build.png"
@@ -11,5 +11,5 @@ fanart="https://raw.githubusercontent.com/Jchc4/repository.jcwizard/master/Asset
 preview="http://"
 adult="no"
 info="http://"
-description="JC Build v4"
+description="JC Build v5 FenLight AM"
 
