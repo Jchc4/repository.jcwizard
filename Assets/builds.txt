@@ -1,12 +1,9 @@
 
 name="JC Build"
-version="1"
-<<<<<<< Updated upstream
 url="https://www.dropbox.com/scl/fi/6w9ajs5uwgnhsebwmnimp/POV_v1.zip?rlkey=t9uico4za3ko78iew4eusvde0&st=8rchcaay&dl=1"
+version="1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/2ostuiyrkguusb9ujkjfo/POV_v1_guisettings.zip?rlkey=d890b640bsidxmnn3dzvux2oq&st=4w3pe8z9&dl=1"
-=======
->>>>>>> Stashed changes
 kodi="21.0"
 theme="http://"
 icon="https://raw.githubusercontent.com/Jchc4/repository.jcwizard/master/Assets/JC%20build.png"
@@ -15,4 +12,3 @@ preview="http://"
 adult="no"
 info="http://"
 description="JC Build POV v1"
-
