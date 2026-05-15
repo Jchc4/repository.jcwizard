@@ -1,9 +1,12 @@
 
 name="JC Build"
-version="5"
-url="https://www.dropbox.com/scl/fi/1lkwcej1ctd7l7yttkiyf/JC_Build_V5.zip?rlkey=1g07fkgd8ae82mg0gjvsxa8u8&st=mxstyv0z&dl=1"
+version="1"
+<<<<<<< Updated upstream
+url="https://www.dropbox.com/scl/fi/6w9ajs5uwgnhsebwmnimp/POV_v1.zip?rlkey=t9uico4za3ko78iew4eusvde0&st=8rchcaay&dl=1"
 minor="http://"
-gui="https://www.dropbox.com/scl/fi/jbr57xcb65nl7k3jp8jjb/JC_Build_V5_guisettings.zip?rlkey=ayi9hi53cp3ohhy9ubk4x6p5y&st=5zgzfvk7&dl=1"
+gui="https://www.dropbox.com/scl/fi/2ostuiyrkguusb9ujkjfo/POV_v1_guisettings.zip?rlkey=d890b640bsidxmnn3dzvux2oq&st=4w3pe8z9&dl=1"
+=======
+>>>>>>> Stashed changes
 kodi="21.0"
 theme="http://"
 icon="https://raw.githubusercontent.com/Jchc4/repository.jcwizard/master/Assets/JC%20build.png"
@@ -11,5 +14,5 @@ fanart="https://raw.githubusercontent.com/Jchc4/repository.jcwizard/master/Asset
 preview="http://"
 adult="no"
 info="http://"
-description="JC Build v5 FenLight AM"
+description="JC Build POV v1"
 
